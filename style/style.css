@@ -1,0 +1,15 @@
+.produit > div,
+.produit-item > div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.produit img,
+.produit-item img {
+    width: 300px;
+    max-height: 400px;
+}
+
+.produit-item {
+    margin-bottom: 50px;
+}
